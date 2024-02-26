@@ -1,4 +1,4 @@
 # Salifort-Motors-project-
-Salifort Motors faces high employee turnover. Leadership aims to predict and address it. HR surveys employees to identify reasons. They want a data professional to analyze the data and build a model predicting departures, potentially using statistical or machine learning methods.
+There is a lot of personnel turnover at Salifort Motors. The goal of leadership is to foresee and handle it. HR asks workers questions to find out why. They want a specialist in data analysis to examine the information and create a departure prediction model, maybe with the help of machine learning or statistics.
 
-This capstone project analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department.
+In order to develop predictive models that might offer the Human Resources (HR) department insights, this capstone project analyzes the dataset.
